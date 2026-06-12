@@ -13,10 +13,10 @@
 
 | Sensor | Part | Role |
 |--------|------|------|
-| 🛰️ GNSS receiver | u-blox **NEO-M9N** | Global position / velocity / time |
-| 🎯 6-axis IMU | InvenSense **MPU6050** | Acceleration + angular rate (attitude/motion) |
-| 📏 Time-of-Flight | ST **VL53L0X** | Short-range distance (e.g. height-above-ground / proximity) |
-| 🌡️ Barometer | Bosch **BMP280** | Barometric pressure + temperature → barometric altitude |
+| GNSS receiver | u-blox **NEO-M9N** | Global position / velocity / time |
+| 6-axis IMU | InvenSense **MPU6050** | Acceleration + angular rate (attitude/motion) |
+| Time-of-Flight | ST **VL53L0X** | Short-range distance (e.g. height-above-ground / proximity) |
+| Barometer | Bosch **BMP280** | Barometric pressure + temperature → barometric altitude |
 
 ### Project Goal
 
@@ -31,7 +31,7 @@ The goal was to design a **single, manufacturable, RF-aware sensor board** that:
 
 ## How It Works
 
-The host (flight controller / MCU) connects through the board headers and talks to the sensors over a shared **I²C** bus plus the GNSS module's host interface. The GNSS module drives an **external active antenna** through a u.FL connector, with a bias network injecting DC power up the RF line.
+The host (flight controller / MCU) connects through the board headers and talks to the sensors over a shared **I²C** bus plus the GNSS module's host interface. The GNSS module drives an **external active antenna** through a u.FL connector, with a bias network injecting DC power up the RF line.(Chart made with AI)
 
 ```mermaid
 graph TD
