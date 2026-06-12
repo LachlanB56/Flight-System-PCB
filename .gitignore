@@ -26,3 +26,19 @@ Project Outputs*/
 
 # Folder to save each comparison results
 CompareHistory/
+
+# === Altium generated / temporary files ===
+History/
+__Previews/
+Project Logs for*/
+Project Outputs for*/
+
+# Auto-backup and temp files
+*.~*
+~*
+*.bak
+*.PrjPcbStructure
+
+# Altium 365 / local cache
+*.harnessConnector
+.AdManifest
