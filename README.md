@@ -195,10 +195,4 @@ Aviation Sensors/
 
 ---
 
-## License
-
-Released under the **MIT License** — see `LICENSE` for details.
-
----
-
 > _Designed in Altium Designer · Built as a hands-on RF + mixed-signal PCB learning project._
