@@ -1,4 +1,4 @@
-# Aviation Sensors — Multi-Sensor GNSS / IMU / ToF PCB
+# Aviation Sensors — Multi-Sensor GNSS / IMU / ToF /Barometer PCB
 
 > A compact 4-layer sensor board that fuses **position**, **motion**, and **distance** sensing into a single module for aviation / UAV applications.
 <img width="632" height="326" alt="Screenshot 2026-06-12 092545" src="https://github.com/user-attachments/assets/cae4e667-cfef-4c10-865a-b471d4609595" />
