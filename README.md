@@ -92,7 +92,7 @@ The thin **L1 ↔ L2** dielectric is what keeps the GNSS RF trace a sane width w
 
 ---
 
-## 📐 Schematic
+## Schematic
 
 <!-- Export from Altium: File > Export, or a high-res screenshot. Save as docs/schematic.png -->
 <img width="670" height="382" alt="Screenshot 2026-06-12 092646" src="https://github.com/user-attachments/assets/ecf18761-8586-4c61-b302-3b08450f6461" />
@@ -101,12 +101,12 @@ The thin **L1 ↔ L2** dielectric is what keeps the GNSS RF trace a sane width w
 
 ---
 
-## 🧩 PCB Layout
+## PCB Layout
 <img width="703" height="370" alt="Screenshot 2026-06-12 092613" src="https://github.com/user-attachments/assets/15523b1d-a66e-4ead-aad4-499c4419eb6c" />
 
 ---
 
-## 🧊 3D Render
+## 3D Render
 <img width="632" height="326" alt="Screenshot 2026-06-12 092545" src="https://github.com/user-attachments/assets/22916938-2e00-4ea8-9ee4-c105f6bdefdf" />
 
 
